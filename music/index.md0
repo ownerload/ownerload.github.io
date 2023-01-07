@@ -1,0 +1,9 @@
+---
+title: 音乐
+date: 2018-01-05 00:00:00
+type: "music"
+top_img: false
+comments: false
+---
+
+{% meting "6928882504" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%}
